@@ -1,0 +1,11 @@
+product_id,name,type,target_age,target_income,target_risk,target_conditions
+201,Family Guard,health,25-40,40000-60000,low,
+202,Safe Returns,guaranteed_return_plan,20-35,50000-60000,low,
+203,Whole Life Plus,life,35-60,40000-70000,medium,
+204,Critical Health Shield,health,30-60,40000-80000,high,cancer
+205,Term Protect Lite,term_life,25-40,30000-50000,low,
+206,Secure Child Plan,education,20-45,30000-70000,medium,
+207,Senior Care,health,60-80,20000-50000,high,
+208,Invest Smart,investment,30-50,50000-100000,medium,
+209,Family First,health,25-45,40000-70000,low,
+210,Guaranteed Growth,guaranteed_return_plan,25-35,50000-70000,low,
